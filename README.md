@@ -19,7 +19,7 @@ It includes the following endpoints:
 3. POST /api/events/
 - The 'events' URL comes with a built in form to enable the user to post new events to the built in database.
 
-### Additional Features
+### Additional Features:
 
 In addition to the required features for the task, this API has the following additional features:
 
@@ -30,4 +30,20 @@ In addition to the required features for the task, this API has the following ad
 3. COMMENTS: A 'comments' field has been added in order for the user to be able to add any extra relevant information to the event instance. It is an optional field.
 
 
+### Running the Project:
 
+In order to run the events_api, you will need to have the following installed: 
+
+1. Django
+
+`pip install django`
+
+2. Django Rest Framework
+
+`pip install djangorestframework`
+
+The project can either be downloaded as a zip file, or cloned by using the following command:
+
+`git clone https://github.com/Hgoatly/recipes-without.git` 
+
+and run locally on your computer using the localhost:8000 port.
