@@ -44,6 +44,6 @@ In order to run the events_api, you will need to have the following installed:
 
 The project can either be downloaded as a zip file, or cloned by using the following command:
 
-`git clone https://github.com/Hgoatly/recipes-without.git` 
+`git clone https://github.com/Hgoatly/events_api.git` 
 
 and run locally on your computer using the localhost:8000 port.
