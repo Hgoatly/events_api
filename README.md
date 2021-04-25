@@ -47,3 +47,6 @@ The project can either be downloaded as a zip file, or cloned by using the follo
 `git clone https://github.com/Hgoatly/events_api.git` 
 
 and run locally on your computer using the localhost:8000 port.
+
+### Testing:
+The project was tested manually, and with the [Postman app](https://www.postman.com/).
