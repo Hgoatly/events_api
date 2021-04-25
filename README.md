@@ -11,7 +11,7 @@ This API was built using the Django Rest Framework [Django Rest Framework](https
 It includes the following endpoints: 
 
 1. GET /api/events/
-- Which returns a list of events
+- Which returns a list of events. This is reached by clicking on the 'events' URL on the API root page.
 
 2. GET /api/events/:id/
 - Which returns a specific event. This can be reached by clicking on the URL field on an individual event. 
